@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/mubdi_bg.qm</file>
+        <file alias="ca">locale/mubdi_ca.qm</file>
+        <file alias="cs">locale/mubdi_cs.qm</file>
+        <file alias="da">locale/mubdi_da.qm</file>
+        <file alias="de">locale/mubdi_de.qm</file>
+        <file alias="en">locale/mubdi_en.qm</file>
+        <file alias="en_US">locale/mubdi_en_US.qm</file>
+        <file alias="es">locale/mubdi_es.qm</file>
+        <file alias="fi">locale/mubdi_fi.qm</file>
+        <file alias="fr_FR">locale/mubdi_fr_FR.qm</file>
+        <file alias="it">locale/mubdi_it.qm</file>
+        <file alias="ja">locale/mubdi_ja.qm</file>
+        <file alias="ko_KR">locale/mubdi_ko_KR.qm</file>
+        <file alias="nl">locale/mubdi_nl.qm</file>
+        <file alias="pl">locale/mubdi_pl.qm</file>
+        <file alias="pt">locale/mubdi_pt.qm</file>
+        <file alias="pt_BR">locale/mubdi_pt_BR.qm</file>
+        <file alias="ro_RO">locale/mubdi_ro_RO.qm</file>
+        <file alias="ru">locale/mubdi_ru.qm</file>
+        <file alias="sk">locale/mubdi_sk.qm</file>
+        <file alias="sv">locale/mubdi_sv.qm</file>
+        <file alias="tr">locale/mubdi_tr.qm</file>
+        <file alias="uk">locale/mubdi_uk.qm</file>
+        <file alias="zh_CN">locale/mubdi_zh_CN.qm</file>
+        <file alias="zh_TW">locale/mubdi_zh_TW.qm</file>
+    </qresource>
+</RCC>
